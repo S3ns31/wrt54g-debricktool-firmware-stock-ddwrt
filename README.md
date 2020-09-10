@@ -1,1 +1,2 @@
-# wrt54g-debricktool-firmware-stock-ddwrt
+# wrt54g-debricktool with firmware stock && ddwrt
+
